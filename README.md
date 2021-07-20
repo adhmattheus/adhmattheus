@@ -6,7 +6,7 @@
 
 ### Hi, there
 👨‍🎓 - I'm a computer engineering student at Univasf, looking for opportunities. <br>
-💻 - Currently, developing skills for the Data Science.<br>
+💻 - Currently, developing skills for the Web and Data Science.<br>
 ⌛ - I like movies, series, music, games and football.<br>
 🚀 - Always looking for new knowledge and an eternal dreamer.
 
