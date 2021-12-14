@@ -5,10 +5,7 @@
 
 
 ### Hi, there
-👨‍🎓 - I'm a computer engineering student at Univasf, looking for opportunities. <br>
-💻 - Currently, developing skills.<br>
+👨‍🎓 - I'm a computer engineering student at Univasf. <br>
+💻 -I am currently developing skills in software development.<br>
 ⌛ - I like movies, series, music, games and football.<br>
 🚀 - Always looking for new knowledge and an eternal dreamer.
-
-
- 
