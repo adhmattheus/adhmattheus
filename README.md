@@ -6,7 +6,7 @@
 
 ### Hi, there
 👨‍🎓 - I'm a computer engineer. <br>
-💻 - Currently working as software analyst.<br>
+💻 - I currently work as a front-end developer, using technologies like react and node.<br>
 ⌛ - I like movies, series, music, games and football.<br>
 🚀 - Always looking for new knowledge and an eternal dreamer.
 
