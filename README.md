@@ -5,15 +5,15 @@
 
 
 ### Hi, there
-🚀 Sou engenheiro de computação, com experiência como analista e desenvolvedor, navegando nas ondas da inovação digital.
+🚀 I am a computer engineer, with experience as an analyst and developer, navigating the waves of digital innovation.
 
-💻 Meu playground inclui HTML, CSS, JavaScript, React, Angular, .NET e Node.js. Não esquecendo dos bancos de dados, que são peças-chave no quebra-cabeça do desenvolvimento de software!
+💻 My playground includes HTML, CSS, JavaScript, React, Angular, .NET and Node.js. Not forgetting databases, which are key pieces in the software development puzzle!
 
-🌱 Meu objetivo é solidificar meu conhecimento nessas tecnologias para criar experiências digitais que agreguem valor ao usuário, tornando a vida das pessoas melhor através da tecnologia, além de estar atento ao mercado digital e sua evolução contínua.
+🌱 My goal is to solidify my knowledge in these technologies to create digital experiences that add value to the user, making people's lives better through technology, in addition to being attentive to the digital market and its continuous evolution.
 
-🔍 Estou sempre em busca de desafios que impulsionem meu crescimento pessoal e profissional. Acredito que o aprendizado contínuo e o trabalho em equipe são a chave para se manter relevante no mundo da tecnologia.
+🔍 I am always looking for challenges that boost my personal and professional growth. I believe that continuous learning and teamwork are the key to staying relevant in the world of technology.
 
-"Cada sonho que você deixa para trás é um pedaço do seu futuro que deixa de existir." - Steve Jobs
+"Every dream you leave behind is a piece of your future that ceases to exist." -Steve Jobs
 
 <div align="center">
   <a href="https://github.com/adhmattheus">
