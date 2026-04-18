@@ -5,13 +5,15 @@
 
 
 ### Hi, there
-🚀 I am a computer engineer, with experience as an analyst and developer, navigating the waves of digital innovation.
+💻 Full Stack Developer with experience in React, Angular, and .NET, working on building scalable web applications and integrating with APIs.
 
-💻 My playground includes HTML, CSS, JavaScript, React, Angular, .NET and Node.js. Not forgetting databases, which are key pieces in the software development puzzle!
+🚀 I have experience in both front-end (React, Angular) and back-end (.NET), as well as working with databases such as SQL Server and PostgreSQL.
 
-🌱 My goal is to solidify my knowledge in these technologies to create digital experiences that add value to the user, making people's lives better through technology, in addition to being attentive to the digital market and its continuous evolution.
+☁️ I also have experience with cloud platforms (Azure and AWS) and development practices in agile environments.
 
-🔍 I am always looking for challenges that boost my personal and professional growth. I believe that continuous learning and teamwork are the key to staying relevant in the world of technology.
+🎯 I continuously strive to grow as a developer, creating efficient, well-structured solutions that deliver real impact for users.
+
+🤝 I value collaboration, knowledge sharing, and challenges that drive my professional growth.
 
 "Every dream you leave behind is a piece of your future that ceases to exist." -Steve Jobs
 </br>
